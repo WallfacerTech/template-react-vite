@@ -1,0 +1,9 @@
+{
+  "name": "React + Vite",
+  "description": "React 19 SPA with Vite, TypeScript, and Tailwind CSS",
+  "tags": ["typescript", "react", "frontend", "vite", "tailwind"],
+  "language": "typescript",
+  "testCommand": "npm test",
+  "updateCommand": "npm update",
+  "devCommand": "npm run dev"
+}
